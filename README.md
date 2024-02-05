@@ -1,6 +1,6 @@
 # Project Title
 
-Brief description of your project.
+Brief description of my project.
 
 ## Screenshots
 
