@@ -1,61 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Title</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
+# Project Title
 
-        h1 {
-            color: #333;
-        }
+Brief description of your project.
 
-        img {
-            max-width: 100%;
-            height: auto;
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            margin-bottom: 20px;
-        }
+## Screenshots
 
-        .caption {
-            font-style: italic;
-            color: #777;
-        }
-    </style>
-</head>
-<body>
+![Browse](images/browse.png)
+*Caption for the Browse screenshot.*
 
-    <h1>Project Title</h1>
+![Dashboard](images/dashboard.png)
+*Caption for the Dashboard screenshot.*
 
-    <p>Brief description of your project.</p>
+![Home](images/home.png)
+*Caption for the Home screenshot.*
 
-    <h2>Screenshots</h2>
+![Inbox Conversations](images/inbox-conversations.png)
+*Caption for the Inbox Conversations screenshot.*
 
-    <img src="images/browse.png" alt="Browse">
-    <p class="caption">Caption for the Browse screenshot.</p>
+![New Item](images/new_item.png)
+*Caption for the New Item screenshot.*
 
-    <img src="images/dashboard.png" alt="Dashboard">
-    <p class="caption">Caption for the Dashboard screenshot.</p>
+![Search by Category](images/search_by_category.png)
+*Caption for the Search by Category screenshot.*
 
-    <!-- Repeat the above structure for other screenshots -->
+## Installation
 
-    <h2>Installation</h2>
+Instructions for installation.
 
-    <p>Instructions for installation.</p>
+## Usage
 
-    <h2>Usage</h2>
+Instructions for usage.
 
-    <p>Instructions for usage.</p>
+## License
 
-    <h2>License</h2>
-
-    <p>This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.</p>
-
-</body>
-</html>
+This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
